@@ -133,7 +133,7 @@ You can test the model via Google Colab:
 ## 👨‍💻 Authors
 
 Nguyễn Minh Khang  
-Manual Tester / Researcher
+Manual Tester 
 
 Trần Vĩ Khang  
 Developer
