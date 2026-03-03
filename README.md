@@ -42,9 +42,24 @@ Dự án tập trung vào việc **nghiên cứu và tiếp cận mô hình**, k
 
 ---
 
+## Model Evaluation Metrics (Kết quả đánh giá mô hình)
+![Model Evaluation Metrics](https://drive.google.com/file/d/128Mxj5nAdtW-R52zXZWcNafOdlJFNxKh/view?usp=sharing)
+
+---
+
+## Model Training Results (Kết quả huấn luyện mô hình)
+![Training Results](https://drive.google.com/file/d/1_fgw12dZyzX_Ub1_eg9iQT2NOFF8TBHJ/view?usp=sharing)
+
+---
+
+## Demo
+Bạn có thể thử nghiệm mô hình trên Google Colab tại [Link Demo](http://colab.research.google.com/drive/1LiYXhIHGiHaM4QaDcUK4Zu9nF0avw93B).
+
+---
+
 ## Tác giả
 Nguyễn Minh Khang  
 Fresher QA / Manual Tester
 
-Trần Vĩ Khang
+Trần Vĩ Khang  
 Developer
