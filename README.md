@@ -43,12 +43,12 @@ Dự án tập trung vào việc **nghiên cứu và tiếp cận mô hình**, k
 ---
 
 ## Model Evaluation Metrics (Kết quả đánh giá mô hình)
-![Model Evaluation Metrics](https://drive.google.com/file/d/128Mxj5nAdtW-R52zXZWcNafOdlJFNxKh/view?usp=sharing)
+![Model Evaluation Metrics](https://drive.google.com/uc?export=view&id=128Mxj5nAdtW-R52zXZWcNafOdlJFNxKh)
 
 ---
 
 ## Model Training Results (Kết quả huấn luyện mô hình)
-![Training Results](https://drive.google.com/file/d/1_fgw12dZyzX_Ub1_eg9iQT2NOFF8TBHJ/view?usp=sharing)
+![Training Results](https://drive.google.com/uc?export=view&id=1_fgw12dZyzX_Ub1_eg9iQT2NOFF8TBHJ)
 
 ---
 
