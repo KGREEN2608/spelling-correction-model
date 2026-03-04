@@ -86,9 +86,11 @@ The experimental results show that the fine-tuned model effectively corrects syn
 
 ## 🚀 Demo
 
-You can test the model via Google Colab:
+Google Colab notebook (may require compatible library versions):
 
 👉 [Open Demo on Google Colab](http://colab.research.google.com/drive/1LiYXhIHGiHaM4QaDcUK4Zu9nF0avw93B)
+
+> ⚠️ Note: This notebook was built in 2025 and may need specific dependency versions to execute successfully.
 
 ---
 
